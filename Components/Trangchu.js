@@ -15,7 +15,7 @@ import Slideshow from 'react-native-image-slider-show';
 export default class Trangchu extends Component {
   constructor(props) {
     super(props);
-    logo= require('./Image/logo.png');
+    logo= require('../Image/logo.png');
 
     this.state = {
       position: 1,

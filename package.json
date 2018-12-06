@@ -13,7 +13,7 @@
     "react-native-image-slider-show": "^1.0.3",
     "react-native-ionicons": "^4.4.6",
     "react-native-material-menu": "^0.4.2",
-    "react-navigation": "^3.0.2"
+    "react-navigation": "^3.0.5"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
